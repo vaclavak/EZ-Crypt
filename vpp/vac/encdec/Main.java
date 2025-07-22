@@ -60,7 +60,7 @@ public class Main {
 	        return;
 	    }
 
-	    // At this point, key is loaded (from input)
+	 
 	    System.out.println("\nWhat do you want to do?");
 	    System.out.println("1. Encrypt");
 	    System.out.println("2. Decrypt");
